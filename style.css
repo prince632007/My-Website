@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+/* Header */
+header {
+    background: #333;
+    color: white;
+    padding: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+/* Hero Section */
+.hero {
+    text-align: left;
+    margin: 15px;
+}
+
+button {
+    
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+/* About Section */
+.about {
+    padding: 30px;
+}
+
+/* Footer */
+footer {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
